@@ -1,6 +1,6 @@
 # VAEGAN-tf
-Here're some code of Variational Auto encoder and  Generative Adversarial Networks
+Here're some codes of Variational Auto encoder and  Generative Adversarial Networks
 
-Based on tensorflow
+And these codes were apllied on the Mnist Dataset and based on tensorflow
 
-2020.8.4
+2020.8.4 
